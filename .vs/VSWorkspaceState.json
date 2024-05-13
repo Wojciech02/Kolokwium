@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Kolokwium",
+    "\\Kolokwium\\Controllers",
+    "\\Kolokwium\\DTO",
+    "\\Kolokwium\\Models",
+    "\\Kolokwium\\Repository",
+    "\\Kolokwium\\Services"
+  ],
+  "SelectedNode": "\\Kolokwium\\DTO\\MedicamentDTO.cs",
+  "PreviewInSolutionExplorer": false
+}
